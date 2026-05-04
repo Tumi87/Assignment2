@@ -2,6 +2,7 @@
 ## DESCRIPTION 
 OCEAN TALE OR DEEP Truth QUIZ an Android application development using kotlin.
 This project was created to demonstrate core mobile development concepts, including user interface design, logic impementation and navigation.
+ I added pictures to make it more child friendly cause kids love colorful things and they get to learn more.
 
 ## features
 Interactive Quiz- Multiple-choice questions focused on ocean themed topics
